@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ###
 
-## Hi there. I'm Nesibe...👋
+## Hi there...👋
 
 
 - 🔭 I’m currently working on Machine Learning
