@@ -1,4 +1,4 @@
-## Hi there. I'm Sam...👋
+## Hi there. I'm Nesibe...👋
 
 
 - 🔭 I’m currently working on Machine Learning
