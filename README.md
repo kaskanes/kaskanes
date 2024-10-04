@@ -1,6 +1,6 @@
 
 
-### Hi there I'm Nesibe 👋
+### Hi there 👋
 ###  Data Analyst/ Data Scientist
 
 
